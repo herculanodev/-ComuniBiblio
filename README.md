@@ -1,5 +1,5 @@
 # ComuniLibrary
-Bem-vindo à Comunilibrary, a sua biblioteca online colaborativa
+Bem-vindo à ComuniLibrary, a sua biblioteca online colaborativa
 
 ComuniLibrary: Sua Biblioteca Online Colaborativa
 Sobre o Projeto
