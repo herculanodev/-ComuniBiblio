@@ -3,7 +3,7 @@ Bem-vindo à ComuniLibrary, a sua biblioteca online colaborativa
 
 ComuniLibrary: Sua Biblioteca Online Colaborativa
 Sobre o Projeto
-A ComuniBiblio é uma biblioteca digital inovadora baseada no compartilhamento comunitário de livros. Cada membro contribui com livros para a nossa plataforma e, em troca, ganha acesso a uma extensa coleção de obras compartilhadas por usuários ao redor do mundo. Esta plataforma não só promove o acesso ilimitado ao conhecimento como também fortalece uma comunidade de leitores e estudiosos.
+A ComuniLibrary é uma biblioteca digital inovadora baseada no compartilhamento comunitário de livros. Cada membro contribui com livros para a nossa plataforma e, em troca, ganha acesso a uma extensa coleção de obras compartilhadas por usuários ao redor do mundo. Esta plataforma não só promove o acesso ilimitado ao conhecimento como também fortalece uma comunidade de leitores e estudiosos.
 
 Como Funciona
 Contribua com um Livro: Para se tornar um membro ativo da ComuniLibrary, cada usuário deve contribuir com pelo menos um livro em formato digital.
