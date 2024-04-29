@@ -1,4 +1,4 @@
-# -ComuniBiblio
+# ComuniBiblio
 Bem-vindo à ComuniBiblio, a sua biblioteca online colaborativa
 
 ComuniBiblio: Sua Biblioteca Online Colaborativa
