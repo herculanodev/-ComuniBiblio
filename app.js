@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
-const apidocsRouter = require('./routes/apicdocs');
+const apidocsRouter = require('./routes/book');
 const booksRouter = require('./routes/book');
 const usersRouter = require('./routes/users');
 
@@ -22,4 +22,4 @@ app.use('/api-docs', apidocsRouter);
 app.use('/books', booksRouter);
 app.use('/users', usersRouter);
 
-module.exports = app; // Exporte apenas a instância do aplicativo
+module.exports = app;
